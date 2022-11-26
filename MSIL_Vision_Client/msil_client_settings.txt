@@ -1,0 +1,9 @@
+ipaddress_of_plc===10.73.13.50
+data_block_number_of_plc===114
+rack_number_of_plc===0
+slot_number_of_plc===1
+ipaddress_of_server_system===192.168.5.243
+port_of_server_system===2120
+maximum_size_server_queue===100
+plc_db_read_delay_in_milliseconds===1000
+server_reconnect_delay_in_milliseconds===2000
